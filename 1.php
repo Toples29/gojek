@@ -14,6 +14,7 @@ $XUniqueid = generateRandomString(16);
 echo '#################################';
 echo "\r\n";
 echo '# Copyright : @DNS PUSAT | DNS-Team #';
+echo "\r\n";
 echo '# OJO LALI SALIM MAS ANDRI #';
 echo "\r\n";
 echo '#################################';
